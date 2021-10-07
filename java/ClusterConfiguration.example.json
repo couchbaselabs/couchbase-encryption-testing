@@ -1,0 +1,11 @@
+{
+  "cluster": "172.23.111.134",
+  "bucket": {
+    "bucketName": "default",
+    "numReplicas" : 2,
+    "bucketType": "COUCHBASE",
+    "secBucketName": "secBucket"
+  },
+  "performerPorts": [8060],
+  "loggerLevel": "all:Info"
+}
